@@ -1,7 +1,7 @@
 # docker_django_postgresql_basics
 
 List of Commands that is used to generate the project that we have now.
-https://docs.docker.com/compose/django/#define-the-project-components
+(https://docs.docker.com/compose/django/#define-the-project-components)
 
 ## DEFINE PROJECT COMPONENTS
 
@@ -56,7 +56,7 @@ drwxr-xr-x 2 root   root   composeexample
 -rw-rw-r-- 1 user   user   requirements.txt
 ```
 
-C. CONNECT THE DATABASE
+## CONNECT THE DATABASE
 
 1. Project Directory; Edit composeexample/settings.py
 2. Replace DATABASES with the ff:
